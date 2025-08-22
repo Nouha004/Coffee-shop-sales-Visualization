@@ -2,7 +2,7 @@
 Overview
 This project contains a Coffee Sales Dashboard that provides insights into coffee sales performance, transaction patterns, and product analytics. The dashboard presents key metrics in a visual format to help stakeholders understand sales trends and make data-driven decisions.
 
-![Pizza Sales Dashboard](coffee.png)
+![Pizza Sales Dashboard](Coffee.png)
 
 
 # Dashboard Components
